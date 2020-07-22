@@ -1,0 +1,95 @@
+body{
+	background: #12123b;
+	margin: 10px;
+}
+
+h1, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	padding: 15px;
+	color: #f91c2e;
+	background-color: #00001e;
+	line-height: 200%;
+	text-align: left;
+}
+
+h2, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+	background-color: #00001e;
+	line-height: 200%;
+	text-align: center;	
+}
+
+h3, span{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	font-variant: small-caps;
+	font-size: 20px;
+	padding: 15px;
+	color: #f91c2e;	
+	background-color: #00001e;
+	line-height: 200%;
+	text-align: left;
+}
+
+h4, span{
+	font-family: comic sans ms;
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif !important;
+	font-variant: small-caps;
+	font-size: 150%;
+	color: #f91c2e;
+	background-color: #00001e;
+	line-height: 200%;
+	text-align: center;	
+}
+
+nav{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif; 
+	text-align: center;
+	font-size: 20px;
+	color: #f91c2e;
+	background: #00001e;
+	padding: 10px;
+	/*display: inline;
+	width: 20px;
+	margin-right: 2%;*/
+	height: 30px;
+}
+
+a{
+	color: #f91c2e;
+	margin: 10px;
+}
+
+.current{
+	color: #f91c2e;
+	background: #173d69;
+	text-transform: uppercase;
+}
+
+summary{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	font-style: italic;
+	font-size: 20px; 
+	line-height: 200%;
+}
+
+details{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	color: #f91c2e;
+	font-size: 20px; 
+	line-height: 100%;
+}
+
+table{
+	font-family: ProximaNova,"Arial Narrow",Verdana,sans-serif;
+	font-size: 20px;
+	border: solid 5px #00001e;
+	color: #f91c2e;
+}
+
+footer{
+	background: #00001e; 
+	color: #f91c2e;
+	line-height: 200%;
+}
+
