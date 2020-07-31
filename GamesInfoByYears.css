@@ -65,9 +65,9 @@ nav{
 
 nav:hover{
 	color: #2aa8e1;
-    background: #2aa8e1;
-    box-shadow: 0 0 10px #2aa8e1, 0 0 40px #2aa8e1, 0 0 80px #2aa8e1;
-    transition-delay: 0.01s;
+	background: #2aa8e1;
+	box-shadow: 0 0 10px #2aa8e1, 0 0 40px #2aa8e1, 0 0 80px #2aa8e1;
+	transition-delay: 0.01s;
 }
 
 nav:focus{
